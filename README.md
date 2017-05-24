@@ -8,5 +8,5 @@ RF communication for arduino library #included
 Software Serial pins tx 8 || rx 09
 
 # ADXL335
-Gryoscope to check if bike is fine || we use only x-axis
+Gryoscope to check if bike is fine || we use only Y-axis
 with 60 degree lenience 
