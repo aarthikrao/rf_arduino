@@ -4,6 +4,7 @@
 //http://www.genotronex.com/
 //..................................
 #include <VirtualWire.h>
+#include <SoftwareSerial.h>
 #define Yaxispin 5 
 #define simTx 7
 #define simRx 8
